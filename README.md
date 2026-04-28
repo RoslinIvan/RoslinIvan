@@ -1,8 +1,12 @@
 Hello, I'm Roslin. Data Analyst with expertise in business intelligence, predictive analytics, 
 machine learning, and geographic information systems.<br><br>
 
+---
+
 ### **📁Projects**
 Welcome to my portofolio, where I showcase my [projects](https://github.com/RoslinIvan?tab=repositories).<br><br>
+
+---
 
 ### **🧠Core Competencies**
 - Business requirements gathering
@@ -13,6 +17,8 @@ Welcome to my portofolio, where I showcase my [projects](https://github.com/Rosl
 - Decision support & executive reporting
 - Stakeholder communication
 - Process improvement & optimization<br><br>
+
+ ---
  
 ### **🛠️Tools**
 - Programming & Query Languages : SQL (Advanced), Python (Pandas, NumPy, scikit-learn, Jupyter), R  
@@ -23,7 +29,9 @@ Welcome to my portofolio, where I showcase my [projects](https://github.com/Rosl
 - Reporting : PowerPoint 
 - Cloud : Microsoft Azure, Google Cloud Platform  
 - Geospatial : QGIS, ArcGIS<br><br>
-  
+
+---
+
 ### **👋Conncet with me**
 [Linkedin](www.linkedin.com/in/roslin-ivan-jouanang-k)
 
