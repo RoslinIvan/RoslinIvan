@@ -1,5 +1,6 @@
-Hello, I'm Roslin. Data Analyst with expertise in business intelligence, predictive analytics, 
-machine learning, and geographic information systems.<br><br>
+Hello,<br>
+I'm Roslin, Data Analyst with expertise in business intelligence, predictive analytics, 
+machine learning, and geographic information systems. Proficient in SQL, Python, Power BI, and Tableau, I bridge the gap between business challenges and data.
 
 ---
 
